@@ -1,0 +1,57 @@
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="ttkStyle">
+      <IconStyle>
+        <scale>0.6</scale>
+        <color>FF0000FF</color>
+        <Icon>
+          <href>http://www.tatukgis.com/Library/Symbols/KML/BOX.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.6</scale>
+        <color>FF00FFFF</color>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <LineStyle>
+        <color>FF000000</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>FFC0C0C0</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>3</name>
+      <description>
+        <![CDATA[ 3<BR>ORIG_ID=1<BR>IDPONTOSC=3<BR>IDREGIAO=60<BR>IDBAIRRO=7<BR>IDPROPRIETARIO=C<BR>IDCARACPOSTE=D09200<BR>TIPO=1<BR>NUMERO=0<BR>PERIMETRO=U<BR>ANGULO=90<BR>ANGULO_TEXTO=0<BR>DATA_IMPLANTACAO=2013-01-01T00:00:00-03:00<BR>ESTRUTURAS_SECUNDARIAS=2AS11<BR>USOMUTUO=AD-TE<BR>TIPO_CARAC=3<BR>CLASSIFICACAO=2AS11_C<BR>DATA_FABRICACAO=2013-01-01T00:00:00-03:00<BR>ARQS=Duplo T.svg<BR>TIPO_REGRA=S<BR>COORDX=422468,36<BR>COORDY=6734247,157<BR>COORDX_FONTE=422468,36<BR>COORDY_FONTE=6734247,157<BR>COORDENADAX=422468,36<BR>COORDENADAY=6734247,157<BR> ]]>
+</description>
+      <styleUrl>#ttkStyle</styleUrl>
+      <Point>
+        <coordinates>-51.8000288570205,-29.5189777578801</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6</name>
+      <description>
+        <![CDATA[ 6<BR>ORIG_ID=3<BR>IDPONTOSC=6<BR>IDREGIAO=60<BR>IDBAIRRO=15<BR>IDPROPRIETARIO=C<BR>IDCARACPOSTE=D11150<BR>TIPO=1<BR>NUMERO=0<BR>PERIMETRO=R<BR>ANGULO=182<BR>ANGULO_TEXTO=0<BR>DATA_IMPLANTACAO=2013-01-01T00:00:00-03:00<BR>ESTRUTURAS_PRIMARIAS=N2<BR>ESTRUTURAS_SECUNDARIAS=3AS11<BR>USOMUTUO=ST<BR>TIPO_CARAC=3<BR>CLASSIFICACAO=N2_C-3AS11_C<BR>DATA_FABRICACAO=2013-01-01T00:00:00-03:00<BR>ARQS=Duplo T.svg<BR>TIPO_REGRA=S<BR>COORDX=425310,101<BR>COORDY=6736223,638<BR>COORDX_FONTE=425310,101<BR>COORDY_FONTE=6736223,638<BR>COORDENADAX=425310,101<BR>COORDENADAY=6736223,638<BR> ]]>
+</description>
+      <styleUrl>#ttkStyle</styleUrl>
+      <Point>
+        <coordinates>-52.0291492553828,-29.3203860399718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>147317</name>
+      <description>
+        <![CDATA[ 147317<BR>ORIG_ID=157879<BR>IDPONTOSC=147317<BR>IDREGIAO=9<BR>IDBAIRRO=9<BR>IDPROPRIETARIO=C<BR>IDCARACPOSTE=D09150<BR>TIPO=1<BR>NUMERO=0<BR>PERIMETRO=R<BR>ANGULO=330<BR>ANGULO_TEXTO=0<BR>DATA_IMPLANTACAO=2025-03-05T14:36:29-03:00<BR>ESTRUTURAS_SECUNDARIAS=4AS11<BR>USOMUTUO=PR<BR>TIPO_CARAC=3<BR>CLASSIFICACAO=4AS11_C<BR>DATA_FABRICACAO=2013-01-01T00:00:00-03:00<BR>ARQS=Duplo T.svg<BR>TIPO_REGRA=S<BR>COORDX=400083,383<BR>COORDY=6756107,363<BR>COORDX_FONTE=400083,383<BR>COORDY_FONTE=6756107,363<BR>COORDENADAX=400083,383<BR>COORDENADAY=6756107,363<BR> ]]>
+</description>
+      <styleUrl>#ttkStyle</styleUrl>
+      <Point>
+        <coordinates>-52.0289962764952,-29.3201221255195</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
